@@ -1,0 +1,118 @@
+.card-img-top{
+    border-radius: 50%;
+}
+.info-left{
+    margin-top: 5%;
+}
+
+.w3-content.w3-margin-top{
+    max-width:1400px;
+}
+
+.htmlcss{
+    width:60%;
+}
+
+.shopify{
+    width:70%;
+}
+
+.java{
+    width:60%;
+}
+
+.react{
+    width:60%;
+}
+
+.italian{
+    height:24px;
+    width:100%;
+}
+
+.engl{
+    height:24px;
+    width:70%
+}
+
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+    color: aliceblue;
+}
+
+.navbarst{
+    position: fixed;
+    width: 100%;
+    background-color: #009688;
+    border-bottom: none!important;
+    z-index: 99999;
+    margin-top: 0;
+}
+.bg-body-tertiary{
+    background-color: #009688!important;
+}
+
+.bg-body-tertiary:hover{
+    color: wheat;
+}
+
+.title1{
+    padding-top: 10%;
+}
+
+.progetti{
+    text-align: center;
+}
+
+.containerProg{
+    background-color: #009688;
+    padding: 2%;
+    color: aliceblue;
+}
+
+.btnInvia:hover{
+    background-color: #009688;
+}
+
+.s2ilogo{
+    width: 20%;
+}
+
+.itslogo{
+    width: 10%;
+}
+
+.facebook:hover{
+    color: blue;
+}
+
+.instagram:hover{
+    color: rgb(181, 18, 170);
+}
+
+.linkedin:hover{
+    color: rgb(54, 54, 207);
+}
+
+.cellphone:hover{
+    color: green;
+}
+
+.titlestudy:hover{
+    color: rgb(43, 149, 211);
+}
+
+.mail:hover{
+    color: rgb(226, 26, 26);
+}
+
+.city:hover{
+    color: rgb(10, 79, 14);
+}
+
+.fa:hover{
+    color: white;
+}
+
+.navbar-brand:hover{
+    color: white;
+}
