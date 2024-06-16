@@ -35,6 +35,10 @@
     width:70%
 }
 
+.card{
+    width: 100%;
+}
+
 .navbar-expand-lg .navbar-nav .nav-link:hover{
     color: aliceblue;
 }
@@ -56,7 +60,7 @@
 }
 
 .title1{
-    padding-top: 10%;
+    padding-top: 20%;
 }
 
 .progetti{
@@ -75,6 +79,10 @@
 
 .s2ilogo{
     width: 20%;
+}
+
+.torrilogo{
+    width: 5%;
 }
 
 .itslogo{
