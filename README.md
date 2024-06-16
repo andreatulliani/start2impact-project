@@ -5,7 +5,7 @@ Sono presenti due pagine. La prima contiene una piccola pagina di presentazione 
 La seconda pagina contiene il mio cv che si può anche scaricare.
 
 STRUTTURA:
-andreatulliani.html è la pagina principale
+index.html è la pagina principale
 cv.html è la pagina secondaria
 
 Directory:
